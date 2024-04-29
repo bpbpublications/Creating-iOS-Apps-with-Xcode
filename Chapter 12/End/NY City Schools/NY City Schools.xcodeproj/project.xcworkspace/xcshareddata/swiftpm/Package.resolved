@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "commonui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AaronBratcher/CommonUI",
+      "state" : {
+        "revision" : "18233737dd8f19dd0caf1f016f8884d22720e98a",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "viewinspector",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nalexn/ViewInspector",
+      "state" : {
+        "revision" : "07c090d73e0169c342a4ed46e9010be2781eca1e",
+        "version" : "0.9.8"
+      }
+    }
+  ],
+  "version" : 2
+}

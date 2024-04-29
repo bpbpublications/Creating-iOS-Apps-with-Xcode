@@ -1,0 +1,30 @@
+{
+  "Title": {
+    "font": "Avenir Light",
+    "size": 36
+  },
+  "Headline": {
+    "font": "Avenir Heavy",
+    "size": 24
+  },
+  "Callout": {
+    "size": 14,
+    "font": "Baskerville Bold"
+  },
+  "Caption": {
+    "font": "Baskerville Bold Italic",
+    "size": 14
+  },
+  "Footnote": {
+    "size": 10,
+    "font": "Baskerville"
+  },
+  "Body": {
+    "font": "Baskerville",
+    "size": 16
+  },
+  "Subheadline": {
+    "font": "Avenir Book",
+    "size": 20
+  }
+}

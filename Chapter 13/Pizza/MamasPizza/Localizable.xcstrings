@@ -1,0 +1,41 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Add Order" : {
+      "extractionState" : "manual"
+    },
+    "Extra cheese" : {
+      "extractionState" : "manual"
+    },
+    "Light cheese" : {
+      "extractionState" : "manual"
+    },
+    "New Order" : {
+      "extractionState" : "manual"
+    },
+    "No cheese" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NO Cheese"
+          }
+        }
+      }
+    },
+    "No Meat" : {
+      "extractionState" : "manual"
+    },
+    "No Veggies" : {
+      "extractionState" : "manual"
+    },
+    "Normal cheese" : {
+      "extractionState" : "manual"
+    },
+    "Orders" : {
+      "extractionState" : "manual"
+    }
+  },
+  "version" : "1.0"
+}

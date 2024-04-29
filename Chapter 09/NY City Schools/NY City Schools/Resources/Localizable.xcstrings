@@ -1,0 +1,87 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%lld" : {
+
+    },
+    "Line item title:" : {
+
+    },
+    "NA" : {
+
+    },
+    "schoolListView.title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NY City Schools"
+          }
+        }
+      }
+    },
+    "Scores" : {
+
+    },
+    "scoresView.error" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No scores found for school"
+          }
+        }
+      }
+    },
+    "scoresView.math" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avg Math Score:"
+          }
+        }
+      }
+    },
+    "scoresView.reading" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avg Reading Score:"
+          }
+        }
+      }
+    },
+    "scoresView.takers" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Participants:"
+          }
+        }
+      }
+    },
+    "scoresView.writing" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avg Writing Score:"
+          }
+        }
+      }
+    },
+    "Website" : {
+
+    }
+  },
+  "version" : "1.0"
+}

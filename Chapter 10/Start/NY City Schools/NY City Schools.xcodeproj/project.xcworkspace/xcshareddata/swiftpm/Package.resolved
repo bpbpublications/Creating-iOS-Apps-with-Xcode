@@ -1,0 +1,15 @@
+{
+  "originHash" : "a72a6eb24326d07f4435274aeb7b19770fb75b3da5abdc81ab42e58488f144a7",
+  "pins" : [
+    {
+      "identity" : "commonui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AaronBratcher/CommonUI",
+      "state" : {
+        "revision" : "18233737dd8f19dd0caf1f016f8884d22720e98a",
+        "version" : "1.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}

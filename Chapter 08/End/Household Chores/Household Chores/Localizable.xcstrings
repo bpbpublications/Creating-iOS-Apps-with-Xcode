@@ -1,0 +1,150 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "% Chores Complete" : {
+
+    },
+    "%@" : {
+
+    },
+    "Add Chore" : {
+
+    },
+    "Add Family Member" : {
+
+    },
+    "Assigned to" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Asignado a"
+          }
+        }
+      }
+    },
+    "Chore" : {
+
+    },
+    "Chores" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quehaceres"
+          }
+        }
+      }
+    },
+    "Complete" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hecho"
+          }
+        }
+      }
+    },
+    "Completed" : {
+
+    },
+    "Done" : {
+
+    },
+    "Family Member" : {
+
+    },
+    "Family Members" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Family"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Familia"
+          }
+        }
+      }
+    },
+    "Footer" : {
+
+    },
+    "Frequency" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frecuencia"
+          }
+        }
+      }
+    },
+    "H1" : {
+
+    },
+    "H2" : {
+
+    },
+    "Last 7 Days" : {
+
+    },
+    "Location" : {
+
+    },
+    "Name" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nombre"
+          }
+        }
+      }
+    },
+    "Paragraph" : {
+
+    },
+    "Please select a chore" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por favor elige una tarea"
+          }
+        }
+      }
+    },
+    "Please select a family member" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por favor seleccione un miembro de la familia"
+          }
+        }
+      }
+    },
+    "Primary" : {
+
+    },
+    "Secondary" : {
+
+    },
+    "Select chore to assign" : {
+
+    },
+    "Tertiary" : {
+
+    },
+    "Tester" : {
+
+    }
+  },
+  "version" : "1.0"
+}

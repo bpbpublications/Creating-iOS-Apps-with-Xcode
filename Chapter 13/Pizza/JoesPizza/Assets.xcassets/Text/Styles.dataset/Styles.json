@@ -1,0 +1,30 @@
+{
+  "Title": {
+    "font": "Avenir Light",
+    "size": 36
+  },
+  "Headline": {
+    "font": "Avenir Heavy",
+    "size": 24
+  },
+  "Callout": {
+    "size": 14,
+    "font": "Hoefler Text Black"
+  },
+  "Caption": {
+    "font": "Hoefler Text Italic",
+    "size": 14
+  },
+  "Footnote": {
+    "size": 10,
+    "font": "Hoefler Text"
+  },
+  "Body": {
+    "font": "Hoefler Text",
+    "size": 16
+  },
+  "Subheadline": {
+    "font": "Avenir Book",
+    "size": 20
+  }
+}
